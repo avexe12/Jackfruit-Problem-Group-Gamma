@@ -12,7 +12,7 @@ developed as a group project.
 
 ## Team Members
 
-- Aarush Calamuri  
-- Akarsh Agarwal  
-- Akshay Javali  
-- Abhiveer Verma (PES2UG25CSS024)
+- Aarush Viswanath Calamuri (PES2UG25CS011)  
+- Akarsh Agrawal            (PES2UG25CS043)
+- Akshay Javali             (PES2UG25CS048)
+- Abhiveer Verma            (PES2UG25CSS024)
