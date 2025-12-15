@@ -7,10 +7,6 @@ developed as a group project.
 
 ## Project Content
 
-- Problem statement
-- Algorithm explanation
-- Source code
-- Sample inputs and outputs
 
 ---
 
