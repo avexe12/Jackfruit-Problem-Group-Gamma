@@ -5,7 +5,7 @@ This repository contains the solution and related code for the Jackfruit Problem
 # Project content
 
 # Team Members
-Aarush Calamuri
-Akarsh Agarwal
-Akshay Javali
-Abhiveer Verma - PES2UG25CSS024
+-Aarush Calamuri
+-Akarsh Agarwal
+-Akshay Javali
+-Abhiveer Verma - PES2UG25CSS024
